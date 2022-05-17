@@ -1,7 +1,7 @@
 
 ### Welcome！👋 
 + **My Github Blog.[https://0Shino0.github.io](https://0Shino0.github.io/)**
-+ **My Gitee Blog.[https://mysteryguest.gitee.io](https://mysteryguest.gitee.io/)**
++ **My Gitee Blog.**
 
 
 - 🔭 I’m currently working on Vue source code...
