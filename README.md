@@ -1,6 +1,6 @@
 
 ### Welcome！👋 
-+ **My Github Blog.[https://0Shino0.github.io](https://0Shino0.github.io/)**
++ **My Github Blog.[https://yyshino.top/](https://yyshino.top/)**
 + **My Gitee Blog.**
 
 
