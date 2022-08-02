@@ -3,7 +3,7 @@
 + **My Github Blog.[[http://blog.yyshino.top/](http://blog.yyshino.top/)]**
 + **My Gitee Blog.**
 + **MY project**  
-  - [[电商平台](http://shop.yyshino.top:2233/)] [由于接口原因，部分图片展示不全]
+  - 电商平台[[http://shop.yyshino.top](http://shop.yyshino.top:2233/)]](http://shop.yyshino.top) [由于接口原因，部分图片展示不全]
   - 通用管理后台项目 [https://company-admin-ffjhl5vq5-0shino0.vercel.app/#/welcome](https://company-admin-ffjhl5vq5-0shino0.vercel.app/#/welcome)
 
 
