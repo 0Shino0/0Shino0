@@ -5,7 +5,7 @@
 + **MY project**  
   - 我的项目首页 [[http://www.yyshino.top/](http://www.yyshino.top/)]
   - 电商平台[[http://shop.yyshino.top:2233](http://shop.yyshino.top:2233)] [由于接口原因，部分图片可能展示不全]
-  - 通用管理后台项目 [https://company-admin-ffjhl5vq5-0shino0.vercel.app/#/welcome](https://company-admin-ffjhl5vq5-0shino0.vercel.app/#/welcome)
+  - 通用管理后台项目 [https://company-admin-vue3.vercel.app/](https://company-admin-vue3.vercel.app/)
 
 
 - 🔭 I’m currently working on Vue source code...
