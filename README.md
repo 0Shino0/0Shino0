@@ -1,7 +1,6 @@
 
 ### Welcome！👋 
 + **My Github Blog.[[http://blog.yyshino.top/](http://blog.yyshino.top/)]**
-+ **My Gitee Blog.**
 + **MY project**  
   - 我的项目首页 [[http://www.yyshino.top/](http://www.yyshino.top/)]
   - 电商平台[[http://shop.yyshino.top:2233](http://shop.yyshino.top:2233)] [由于接口原因，部分图片可能展示不全]
