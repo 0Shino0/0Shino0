@@ -6,7 +6,7 @@
   - 我的项目首页 [[http://www.yyshino.top/](http://www.yyshino.top/)]
   - 电商平台[[http://shop.yyshino.top:2233](http://shop.yyshino.top:2233)] [由于接口原因，部分图片可能展示不全]
   - 电商平台实时监控系统(Echarts) [[https://e-admin.yyshino.top/](https://e-admin.yyshino.top/)]
-  - ~~通用管理后台项目 [https://company-admin-vue3.vercel.app/](https://company-admin-vue3.vercel.app/) [由于Railway部署每个月只有300小时，所有经常挂掉]~~
+  - 通用管理后台项目 Github地址 [[https://github.com/0Shino0/company-admin](https://github.com/0Shino0/company-admin)] ~~项目地址[https://company-admin-vue3.vercel.app/](https://company-admin-vue3.vercel.app/) [由于Railway部署每个月只有300小时，所有经常挂掉]~~
 
 
 - 🔭 I’m currently working on Vue source code...
