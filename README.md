@@ -1,5 +1,6 @@
 
-### Welcome！👋 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
+### Welcome！👋 
+![访客](https://visitor-badge.glitch.me/badge?page_id=sun0225SUN)
 
 ---
 + **My Github Hexo Blog.[[https://blog.yyshino.top/](https://blog.yyshino.top/)]**
@@ -30,8 +31,6 @@
 ---
 
 
-
----
 <!--
 **MysticalGuest/mysticalguest** is a ✨ _special_ ✨ repository 
 because its `README.md` (this file) appears on your GitHub profile.
