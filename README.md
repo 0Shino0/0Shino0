@@ -14,7 +14,7 @@
 - 📫 How to reach me: 1471386835@qq.com
 
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=0Shino0&include_all_commits=true&count_private-true&custom_title=0Shino0'%20GitHub%20Stats&line_height=30&show_icons=true&hide_border=true&bg_color=192133&title_color=efb752&icon_color=efb752&text_color=70bed9&theme=Gradient">
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=0shino0&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Shino0">
