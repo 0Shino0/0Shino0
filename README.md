@@ -1,6 +1,7 @@
 
 ### Welcome！👋 
 ![访客](https://visitor-badge.glitch.me/badge?page_id=sun0225SUN)
+![打代码](https://shinoimg.yyshino.top/img/202210151659756.gif)
 
 ---
 + **My Github Hexo Blog.[[https://blog.yyshino.top/](https://blog.yyshino.top/)]**
@@ -17,7 +18,7 @@
 
 ---
 
-- FE🔭: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
+- FE🔭: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react)
 - I’m currently working on Vue source code...
 - 🌱 I’m currently learning React, Vue, Axios, JavaScript, HTMLCSS...
 - 📫 How to reach me: 1471386835@qq.com
