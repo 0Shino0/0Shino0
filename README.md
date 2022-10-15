@@ -1,5 +1,6 @@
 
-### Welcome！👋 
+### Welcome！👋 <div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" /> </div>
+
 ---
 + **My Github Hexo Blog.[[https://blog.yyshino.top/](https://blog.yyshino.top/)]**
 + **My Vuepress Blog.[[https://v-blog.yyshino.top/](https://v-blog.yyshino.top/)]**
@@ -9,8 +10,14 @@
   - 电商平台实时监控系统(Echarts) [[https://e-admin.yyshino.top/](https://e-admin.yyshino.top/)]
   - 通用管理后台项目 Github地址 [[https://github.com/0Shino0/company-admin](https://github.com/0Shino0/company-admin)] ~~项目地址[https://company-admin-vue3.vercel.app/](https://company-admin-vue3.vercel.app/) [由于Railway部署每个月只有300小时，所有经常挂掉]~~
 
+---
 
-- 🔭 I’m currently working on Vue source code...
+### My Technology
+
+---
+
+- FE🔭: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
+- I’m currently working on Vue source code...
 - 🌱 I’m currently learning React, Vue, Axios, JavaScript, HTMLCSS...
 - 📫 How to reach me: 1471386835@qq.com
 
@@ -18,14 +25,11 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=0shino0&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 
-
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Shino0">
 
 ---
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
+
 
 ---
 <!--
