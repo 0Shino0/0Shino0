@@ -21,6 +21,7 @@
 
 ---
 :computer: 个人网站:
+
 &emsp;&emsp; 
 <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/-%E6%88%91%E7%9A%84Hexo%E5%8D%9A%E5%AE%A2-3CD6B4?style=flat-square&logo=hexo" alt="Hexo博客"></a>&emsp;
 <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/-Vuepress博客-3CD6B4?style=flat-square&logo=vue" alt="Hexo博客"></a>&emsp;
@@ -39,11 +40,13 @@ https://v-blog.yyshino.top/
 
 ---
 
-- FE🔭: 
-&emsp;&emsp; 
+FE🔭: 
+
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react)
+![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
+![Vue](https://img.shields.io/badge/-Vue-4C6273?style=flat-square&logo=vue)
+![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react)
 ![Node](https://camo.githubusercontent.com/86242e6435f410013a7f934b899e012658f424ad6cde81d909210bb9b46113ca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d63306562643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-130F0B?style=flat-square&logo=typescript&logoColor=007ACD)
 
