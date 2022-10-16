@@ -42,7 +42,6 @@
   <br/>
 
 🔭 正在学习: 
-  <br/>
   <div align="center">
     <!-- 技术栈 -->
     <a href="https://developer.mozilla.org/zh-CN/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></a>&emsp;
@@ -62,7 +61,6 @@
       
   <!-- Tools -->
 🔎 常用工具:
-  <br/>
   <div align="center">
     <a href="#"><img src="https://img.shields.io/badge/vercel-000000?style=flat-square&logo=vercel"></a>&emsp;
     <a href="#"><img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=github">&emsp;
@@ -71,11 +69,13 @@
     <a href="#"><img src="https://img.shields.io/badge/markdown-000000?style=flat-square&logo=markdown">&emsp;
     <a href="#"><img src="https://img.shields.io/badge/stackoverflow-E3E6E8?style=flat-square&logo=stackoverflow">&emsp;
     <a href="#"><img src="https://img.shields.io/badge/VScode-22A5F1?style=flat-square&logo=visualstudiocode">&emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Chrome-DBE7F9?style=flat-square&logo=googlechrome&logoColor=299D46">&emsp;
+    <a href="#"><img src="https://img.shields.io/badge/gitlab-BB2124?style=flat-square&logo=gitlab">&emsp;
+    
   </div>
   <br/>
 
 ⏰ 未来计划:
-  <br/>
   <div align="center">
     <a href="#"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"></a>&emsp;
     <a href="#"><img src="https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python">&emsp;
