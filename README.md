@@ -42,6 +42,7 @@
 🔭 正在学习: 
 
   <div align="center">
+    <!-- 技术栈 -->
     <a href="https://developer.mozilla.org/zh-CN/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></a>&emsp;
     <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3">&emsp;
     <a href="#"><img src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript">&emsp;
@@ -54,6 +55,18 @@
     <a href="#"><img src="https://img.shields.io/badge/-MongoDB-001E2B?style=flat-square&logo=mongodb">&emsp;
     <a href="#"><img src="https://img.shields.io/badge/webpack-2B3A42?style=flat-square&logo=webpack">&emsp;
     <a href="#"><img src="https://img.shields.io/badge/Vite-FFD52D?style=flat-square&logo=vite">&emsp;
+  </div>
+  
+  <!-- Tools -->
+🔎 常用工具
+  <div align="center">
+    <a href="#"><img src="https://img.shields.io/badge/vercel-000000?style=flat-square&logo=vercel"></a>&emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=github">&emsp;
+    <a href="#"><img src="https://img.shields.io/badge/yarn-FFFFFF?style=flat-square&logo=yarn">&emsp;
+    <a href="#"><img src="https://img.shields.io/badge/npm-C8304D?style=flat-square&logo=npm">&emsp;
+    <a href="#"><img src="https://img.shields.io/badge/markdown-000000?style=flat-square&logo=markdown">&emsp;
+    <a href="#"><img src="https://img.shields.io/badge/stackoverflow-E3E6E8?style=flat-square&logo=stackoverflow">&emsp;
+    <a href="#"><img src="https://img.shields.io/badge/VScode-22A5F1?style=flat-square&logo=visualstudiocode">&emsp;
   </div>
 
 
@@ -68,16 +81,6 @@
   <a href="#"><img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c">&emsp;
 </div>
     
-🔎 常用工具
-  <div align="center">
-    <a href="#"><img src="https://img.shields.io/badge/vercel-000000?style=flat-square&logo=vercel"></a>&emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Github-000000?style=flat-square&logo=github">&emsp;
-    <a href="#"><img src="https://img.shields.io/badge/yarn-FFFFFF?style=flat-square&logo=yarn">&emsp;
-    <a href="#"><img src="https://img.shields.io/badge/npm-C8304D?style=flat-square&logo=npm">&emsp;
-    <a href="#"><img src="https://img.shields.io/badge/markdown-000000?style=flat-square&logo=markdown">&emsp;
-    <a href="#"><img src="https://img.shields.io/badge/stackoverflow-E3E6E8?style=flat-square&logo=stackoverflow">&emsp;
-  </div>
-
 
 ---
 
