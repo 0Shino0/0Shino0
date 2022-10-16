@@ -18,7 +18,6 @@
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
 ### Welcome！👋 
-![访客](https://visitor-badge.glitch.me/badge?page_id=0Shino0)
 
 ---
 + **My Github Hexo Blog.[[https://blog.yyshino.top/](https://blog.yyshino.top/)]**
@@ -45,6 +44,8 @@
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=0shino0&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Shino0">
+
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" /> </div>
 
 ---
 
