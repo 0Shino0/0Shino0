@@ -53,7 +53,7 @@
 :earth_asia: 未来计划:
 
 <div align="center">
-  <a href="https://developer.mozilla.org/zh-CN/docs/Web/HTML"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"></a>&emsp;
+  <a href="#"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"></a>&emsp;
   <a href="#"><img src="https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python">&emsp;
   <a href="#"><img src="https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java">&emsp;
   <a href="#"><img src="https://img.shields.io/badge/mysql-FFFFFF?style=flat-square&logo=mysql&logoColor=00678C">&emsp;
@@ -80,18 +80,4 @@
 ---
 
 
-<!--
-**MysticalGuest/mysticalguest** is a ✨ _special_ ✨ repository 
-because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
