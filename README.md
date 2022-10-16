@@ -20,7 +20,7 @@
 ### Welcome！👋 
 
 ---
-+ **My Github Hexo Blog.[[https://blog.yyshino.top/](https://blog.yyshino.top/)]**
++ My Github Hexo Blog: ![Hexo](https://img.shields.io/badge/-%E6%88%91%E7%9A%84Hexo%E5%8D%9A%E5%AE%A2-3CD6B4?style=flat-square&logo=hexo)
 + **My Vuepress Blog.[[https://v-blog.yyshino.top/](https://v-blog.yyshino.top/)]**
 + **MY project**  
   - 我的项目首页 [[http://www.yyshino.top/](http://www.yyshino.top/)]
@@ -34,7 +34,10 @@
 
 ---
 
-- FE🔭: ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react)
+- FE🔭: 
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react)
 - I’m currently working on Vue source code...
 - 🌱 I’m currently learning React, Vue, Axios, JavaScript, HTMLCSS...
 - 📫 How to reach me: 1471386835@qq.com
