@@ -50,8 +50,6 @@
 
 ---
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=0shino0&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
-
 <!-- GitHub数据统计 -->
 <div align="center">
   <img height="137px" src="https://github-readme-stats.vercel.app/api?username=0shino0&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
