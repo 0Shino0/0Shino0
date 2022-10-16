@@ -45,7 +45,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Shino0">
 
-<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=sun0225SUN&theme=xcode" /> </div>
+<div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=0Shino0&theme=xcode" /> </div>
 
 ---
 
