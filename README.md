@@ -23,7 +23,7 @@
 :computer: 个人网站:
 &emsp;&emsp; 
 <a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/-%E6%88%91%E7%9A%84Hexo%E5%8D%9A%E5%AE%A2-3CD6B4?style=flat-square&logo=hexo" alt="Hexo博客"></a>&emsp;
-<a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/-%E6%88%91%E7%9A%84Hexo%E5%8D%9A%E5%AE%A2-3CD6B4?style=flat-square&logo=hexo" alt="Hexo博客"></a>&emsp;
+<a href="https://sunguoqi.com/"><img src="https://img.shields.io/badge/-Vuepress博客-3CD6B4?style=flat-square&logo=vue" alt="Hexo博客"></a>&emsp;
 ![Hexo](https://img.shields.io/badge/-%E6%88%91%E7%9A%84Hexo%E5%8D%9A%E5%AE%A2-3CD6B4?style=flat-square&logo=vuepress)
 
 https://v-blog.yyshino.top/
