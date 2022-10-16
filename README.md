@@ -40,6 +40,7 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
 ![Vue](https://img.shields.io/badge/-Vue-4C6273?style=flat-square&logo=vue)
 ![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react)
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
 ![Node](https://camo.githubusercontent.com/86242e6435f410013a7f934b899e012658f424ad6cde81d909210bb9b46113ca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d63306562643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-130F0B?style=flat-square&logo=typescript&logoColor=007ACD)
 
@@ -49,9 +50,13 @@
 
 ---
 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=0shino0&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=0shino0&bg_color=30,e96443,904e95&title_color=fff&text_color=fff">
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0Shino0">
+<!-- GitHub数据统计 -->
+<div align="center">
+  <img height="137px" src="https://github-readme-stats.vercel.app/api?username=0shino0&hide_title=true&hide_border=true&show_icons=trueline_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" />
+  <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0shino0&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+</div>
 
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=0Shino0&theme=xcode" /> </div>
 
