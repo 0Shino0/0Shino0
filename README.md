@@ -26,7 +26,7 @@
 <a href="https://v-blog.yyshino.top/"><img src="https://img.shields.io/badge/-Vuepress博客-3CD6B4?style=flat-square&logo=vue" alt="Vuepress博客"></a>&emsp;
 
 
-MY project
+:video_game: MY project
   - 我的项目首页 [[http://www.yyshino.top/](http://www.yyshino.top/)]
   - 电商平台[[http://shop.yyshino.top:2233](http://shop.yyshino.top:2233)] [由于接口原因，部分图片可能展示不全]
   - 电商平台实时监控系统(Echarts) [[https://e-admin.yyshino.top/](https://e-admin.yyshino.top/)]
