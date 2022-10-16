@@ -21,10 +21,10 @@
 
 :computer: 个人网站:
 
-&emsp;&emsp; 
-<a href="https://blog.yyshino.top/"><img src="https://img.shields.io/badge/-%E6%88%91%E7%9A%84Hexo%E5%8D%9A%E5%AE%A2-3CD6B4?style=flat-square&logo=hexo" alt="Hexo博客"></a>&emsp;
-<a href="https://v-blog.yyshino.top/"><img src="https://img.shields.io/badge/-Vuepress博客-3CD6B4?style=flat-square&logo=vue" alt="Vuepress博客"></a>&emsp;
-
+<div align="center">
+  <a href="https://blog.yyshino.top/"><img src="https://img.shields.io/badge/-%E6%88%91%E7%9A%84Hexo%E5%8D%9A%E5%AE%A2-3CD6B4?style=flat-square&logo=hexo" alt="Hexo博客"></a>&emsp;
+  <a href="https://v-blog.yyshino.top/"><img src="https://img.shields.io/badge/-Vuepress博客-3CD6B4?style=flat-square&logo=vue" alt="Vuepress博客"></a>&emsp;
+</div>
 
 :video_game: 实战经验
 
@@ -46,16 +46,30 @@
 
 🔭 My Technology: 
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
-![Vue](https://img.shields.io/badge/-Vue-4C6273?style=flat-square&logo=vue)
-![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react)
-![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
-![Node](https://camo.githubusercontent.com/86242e6435f410013a7f934b899e012658f424ad6cde81d909210bb9b46113ca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d63306562643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73)
-![TypeScript](https://img.shields.io/badge/-TypeScript-130F0B?style=flat-square&logo=typescript&logoColor=007ACD)
-![MongoDB](https://img.shields.io/badge/-MongoDB-001E2B?style=flat-square&logo=mongodb)
+<div align="center">
+  <a href="https://developer.mozilla.org/zh-CN/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></a>&emsp;
+  <a href="https://developer.mozilla.org/zh-CN/docs/Learn/CSS"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3">&emsp;
+  <a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript"><img src="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript">&emsp;
+  <a href="https://cn.vuejs.org/"><img src="https://img.shields.io/badge/-Vue-4C6273?style=flat-square&logo=vue">&emsp;
+  <a href="https://zh-hans.reactjs.org/"><img src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react">&emsp;
+  <a href="https://jquery.com/"><img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white">&emsp;
+  <a href="http://nodejs.cn/"><img src="https://camo.githubusercontent.com/86242e6435f410013a7f934b899e012658f424ad6cde81d909210bb9b46113ca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d63306562643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73">&emsp;
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-TypeScript-130F0B?style=flat-square&logo=typescript&logoColor=007ACD">&emsp;
+  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-001E2B?style=flat-square&logo=mongodb">&emsp;
+</div>
 
+<!--
+  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
+  ![Vue](https://img.shields.io/badge/-Vue-4C6273?style=flat-square&logo=vue)
+  ![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react)
+  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
+  ![Node](https://camo.githubusercontent.com/86242e6435f410013a7f934b899e012658f424ad6cde81d909210bb9b46113ca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d63306562643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73)
+  ![TypeScript](https://img.shields.io/badge/-TypeScript-130F0B?style=flat-square&logo=typescript&logoColor=007ACD)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-001E2B?style=flat-square&logo=mongodb)
+-->
+  
 :earth_asia: 未来计划:
 
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
