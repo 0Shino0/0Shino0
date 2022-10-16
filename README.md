@@ -61,7 +61,7 @@
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
 ![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat-square&logo=mysql&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-FFFFFF?style=flat-square&logo=mysql&logoColor=00678C)
 ![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
 
