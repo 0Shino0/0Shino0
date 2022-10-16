@@ -46,8 +46,11 @@
     <a href="#"><img src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react">&emsp;
     <a href="#"><img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white">&emsp;
     <a href="#"><img src="https://camo.githubusercontent.com/86242e6435f410013a7f934b899e012658f424ad6cde81d909210bb9b46113ca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d63306562643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73">&emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Koa-33333D?style=flat-square&logo=koa">&emsp;
     <a href="#"><img src="https://img.shields.io/badge/-TypeScript-130F0B?style=flat-square&logo=typescript&logoColor=007ACD">&emsp;
     <a href="#"><img src="https://img.shields.io/badge/-MongoDB-001E2B?style=flat-square&logo=mongodb">&emsp;
+    <a href="#"><img src="https://img.shields.io/badge/webpack-2B3A42?style=flat-square&logo=webpack">&emsp;
+    <a href="#"><img src="https://img.shields.io/badge/Vite-FFD52D?style=flat-square&logo=vite">&emsp;
   </div>
 
 
@@ -69,6 +72,7 @@
     <a href="#"><img src="https://img.shields.io/badge/yarn-FFFFFF?style=flat-square&logo=yarn">&emsp;
     <a href="#"><img src="https://img.shields.io/badge/npm-C8304D?style=flat-square&logo=npm">&emsp;
     <a href="#"><img src="https://img.shields.io/badge/markdown-000000?style=flat-square&logo=markdown">&emsp;
+    <a href="#"><img src="https://img.shields.io/badge/stackoverflow-E3E6E8?style=flat-square&logo=stackoverflow">&emsp;
   </div>
 
 
