@@ -36,48 +36,31 @@
   <a href="https://github.com/0Shino0/company-admin"><img src="https://img.shields.io/badge/Vue3-通用管理后台项目-c32136"></a>&emsp;
 </div>
 
-<!--
-原实战经验
-  - 我的项目首页 [[](http://www.yyshino.top/)]
-  - 电商平台[[](http://shop.yyshino.top:2233)] [由于接口原因，部分图片可能展示不全]
-  - 电商平台实时监控系统(Echarts) [[](https://e-admin.yyshino.top/)]
-  - 通用管理后台项目 Github地址 [[](https://github.com/0Shino0/company-admin)] ~~项目地址[https://company-admin-vue3.vercel.app/](https://company-admin-vue3.vercel.app/) [由于Railway部署每个月只有300小时，所有经常挂掉]~~
--->
-
 🔭 My Technology: 
 
 <div align="center">
   <a href="https://developer.mozilla.org/zh-CN/docs/Web/HTML"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"></a>&emsp;
-  <a href="https://developer.mozilla.org/zh-CN/docs/Learn/CSS"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3">&emsp;
-  <a href="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript"><img src="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript">&emsp;
-  <a href="https://cn.vuejs.org/"><img src="https://img.shields.io/badge/-Vue-4C6273?style=flat-square&logo=vue">&emsp;
-  <a href="https://zh-hans.reactjs.org/"><img src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react">&emsp;
-  <a href="https://jquery.com/"><img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white">&emsp;
-  <a href="http://nodejs.cn/"><img src="https://camo.githubusercontent.com/86242e6435f410013a7f934b899e012658f424ad6cde81d909210bb9b46113ca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d63306562643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73">&emsp;
-  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/-TypeScript-130F0B?style=flat-square&logo=typescript&logoColor=007ACD">&emsp;
-  <a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/-MongoDB-001E2B?style=flat-square&logo=mongodb">&emsp;
+  <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3">&emsp;
+  <a href="#"><img src="https://developer.mozilla.org/zh-CN/docs/Web/JavaScript">&emsp;
+  <a href="#"><img src="https://img.shields.io/badge/-Vue-4C6273?style=flat-square&logo=vue">&emsp;
+  <a href="#"><img src="https://img.shields.io/badge/-React-000000?style=flat-square&logo=react">&emsp;
+  <a href="#"><img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white">&emsp;
+  <a href="#"><img src="https://camo.githubusercontent.com/86242e6435f410013a7f934b899e012658f424ad6cde81d909210bb9b46113ca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d63306562643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73">&emsp;
+  <a href="#"><img src="https://img.shields.io/badge/-TypeScript-130F0B?style=flat-square&logo=typescript&logoColor=007ACD">&emsp;
+  <a href="#"><img src="https://img.shields.io/badge/-MongoDB-001E2B?style=flat-square&logo=mongodb">&emsp;
 </div>
 
-<!--
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
-  ![Vue](https://img.shields.io/badge/-Vue-4C6273?style=flat-square&logo=vue)
-  ![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react)
-  ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=style=flat-square&logo=jquery&logoColor=white)
-  ![Node](https://camo.githubusercontent.com/86242e6435f410013a7f934b899e012658f424ad6cde81d909210bb9b46113ca/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4e6f64656a732d63306562643f7374796c653d666c61742d737175617265266c6f676f3d4e6f64652e6a73)
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-130F0B?style=flat-square&logo=typescript&logoColor=007ACD)
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-001E2B?style=flat-square&logo=mongodb)
--->
-  
 :earth_asia: 未来计划:
 
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python)
-![Java](https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java)
-![MySQL](https://img.shields.io/badge/mysql-FFFFFF?style=flat-square&logo=mysql&logoColor=00678C)
-![Docker](https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker)
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+<div align="center">
+  <a href="https://developer.mozilla.org/zh-CN/docs/Web/HTML"><img src="https://img.shields.io/badge/c%23-%23239120.svg?style=flat-square&logo=c-sharp&logoColor=white"></a>&emsp;
+  <a href="#"><img src="https://img.shields.io/badge/-Python-pink?style=flat-square&logo=Python">&emsp;
+  <a href="#"><img src="https://img.shields.io/badge/-java-yellow?style=flat-square&logo=java">&emsp;
+  <a href="#"><img src="https://img.shields.io/badge/mysql-FFFFFF?style=flat-square&logo=mysql&logoColor=00678C">&emsp;
+  <a href="#"><img src="https://img.shields.io/badge/-Docker-FCC624?style=flat-square&logo=docker">&emsp;
+  <a href="#"><img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c">&emsp;
+</div>
+    
 
 :email: Call Me:
 - I’m currently working on Vue source code...
