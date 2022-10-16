@@ -26,12 +26,23 @@
 <a href="https://v-blog.yyshino.top/"><img src="https://img.shields.io/badge/-Vuepress博客-3CD6B4?style=flat-square&logo=vue" alt="Vuepress博客"></a>&emsp;
 
 
-:video_game: MY project
-  - 我的项目首页 [[http://www.yyshino.top/](http://www.yyshino.top/)]
-  - 电商平台[[http://shop.yyshino.top:2233](http://shop.yyshino.top:2233)] [由于接口原因，部分图片可能展示不全]
-  - 电商平台实时监控系统(Echarts) [[https://e-admin.yyshino.top/](https://e-admin.yyshino.top/)]
-  - 通用管理后台项目 Github地址 [[https://github.com/0Shino0/company-admin](https://github.com/0Shino0/company-admin)] ~~项目地址[https://company-admin-vue3.vercel.app/](https://company-admin-vue3.vercel.app/) [由于Railway部署每个月只有300小时，所有经常挂掉]~~
+:video_game: 实战经验
 
+<!-- 个人资料徽标 -->
+<div align="center">
+  <a href="http://www.yyshino.top/"><img src="https://img.shields.io/badge/Js-个人首页-blue"></a>&emsp;
+  <a href="https://c-shop.yyshino.top/"><img src="https://img.shields.io/badge/Vue2-电商平台-blue"></a>&emsp;
+  <a href="https://e-admin.yyshino.top/"><img src="https://img.shields.io/badge/Vue2-电商平台实时监控系统(Echarts)-161616"></a>&emsp;
+  <a href="https://github.com/0Shino0/company-admin"><img src="https://img.shields.io/badge/Vue3-通用管理后台项目-c32136"></a>&emsp;
+</div>
+
+<!--
+原实战经验
+  - 我的项目首页 [[](http://www.yyshino.top/)]
+  - 电商平台[[](http://shop.yyshino.top:2233)] [由于接口原因，部分图片可能展示不全]
+  - 电商平台实时监控系统(Echarts) [[](https://e-admin.yyshino.top/)]
+  - 通用管理后台项目 Github地址 [[](https://github.com/0Shino0/company-admin)] ~~项目地址[https://company-admin-vue3.vercel.app/](https://company-admin-vue3.vercel.app/) [由于Railway部署每个月只有300小时，所有经常挂掉]~~
+-->
 
 ## My Technology🔭: 
 
