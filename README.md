@@ -26,8 +26,8 @@
 :computer: 个人网站:
 
   <div align="center">
-    <a href="https://blog.yyshino.top/"><img src="https://img.shields.io/badge/Hexo-3CD6B4?style=for-the-badge&logo=hexo&logoColor=%3CD6B4" alt="Hexo博客"></a>&emsp;
-    <a href="https://v-blog.yyshino.top/"><img src="https://img.shields.io/badge/Vuepress-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vuepress博客"></a>&emsp;
+    <a href="https://blog.yyshino.top/"><img src="https://img.shields.io/badge/Hexo博客-3CD6B4?style=for-the-badge&logo=hexo&logoColor=%3CD6B4" alt="Hexo博客"></a>&emsp;
+    <a href="https://v-blog.yyshino.top/"><img src="https://img.shields.io/badge/Vuepress博客-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vuepress博客"></a>&emsp;
   </div>
 
   :video_game: 实战经验
