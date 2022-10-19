@@ -34,7 +34,7 @@
 
   <!-- 个人资料徽标 -->
   <div align="center">
-    <a href="http://www.yyshino.top/"><img src="https://img.shields.io/badge/Js-个人首页-blue"></a>&emsp;
+    <a href="http://www.yyshino.top/"><img src="https://img.shields.io/badge/JavaScript-%E4%B8%AA%E4%BA%BA%E9%A6%96%E9%A1%B5-blue?style=for-the-badge&logo=javascript&logoColor=F7DF1E"></a>&emsp;
     <a href="https://c-shop.yyshino.top/"><img src="https://img.shields.io/badge/Vue2-%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0-blue?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></a>&emsp;
     <a href="https://e-admin.yyshino.top/"><img src="https://img.shields.io/badge/Vue2-%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E5%AE%9E%E6%97%B6%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F(Echarts)-blue?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></a>&emsp;
     <a href="https://github.com/0Shino0/company-admin"><img src="https://img.shields.io/badge/Vue3-%E9%80%9A%E7%94%A8%E7%AE%A1%E7%90%86%E5%90%8E%E5%8F%B0%E9%A1%B9%E7%9B%AE-blue?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"></a>&emsp;
