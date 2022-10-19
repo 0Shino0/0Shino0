@@ -1,6 +1,5 @@
-<div align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=%E5%90%91%E7%9D%80%E8%BF%9C%E6%96%B9;%E4%B8%8D%E6%96%AD%E5%89%8D%E8%BF%9B" alt="Typing SVG" /></a></div>
-<br/>
-<br/>
+
+<h1 align="center">Welcome！👋 <h1/>
 
 <!-- 敲代码的图片 -->
 <div align="center" ><img order-radius="100px" src="https://shinoimg.yyshino.top/img/202210151659756.gif"/></div>
@@ -21,7 +20,6 @@
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
-# Welcome！👋 
 
 :computer: 个人网站:
 
