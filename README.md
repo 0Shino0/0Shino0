@@ -2,7 +2,7 @@
 <h1 align="center">Welcome！👋 </h1>
 
 <!-- 敲代码的图片 -->
-<!-- <div align="center" ><img order-radius="100px" src="https://shinoimg.yyshino.top/img/202210151659756.gif"></div> -->
+<div align="center" ><img order-radius="100px" src="https://shinoimg.yyshino.top/img/202210151659756.gif"></div>
 <div align="center"><img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /></div>
 
 
