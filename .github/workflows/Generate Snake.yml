@@ -26,5 +26,5 @@ svg_out_path: ./assets/github-contribution-grid-snake.svg
 - name: Push to GitHub
 uses: EndBug/add-and-commit@v7.2.1
 with:
-branch: main
+branch: master
 message: 'Generate Contribution Snake'
