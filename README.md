@@ -42,7 +42,7 @@
   </div>
   <br/>
 
-<h4 align="center">🔭 正在学习: </h4>
+<h4 align="center">🔭 已经掌握: </h4>
   <div align="center">
     <!-- 技术栈 -->
     <a href="https://developer.mozilla.org/zh-CN/docs/Web/HTML"><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"></a>&emsp;
