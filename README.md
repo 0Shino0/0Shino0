@@ -20,10 +20,6 @@
 <!-- 贪吃蛇代码贡献图 -->
 <div align="center"><img src="https://cdn.jsdelivr.net/gh/0Shino0/0Shino0@main/contribution-snake/github-contribution-grid-snake.svg" /></div>
 
-
-
-# 🚀 Actions
-
 <!-- 连续提交代码天数记录 -->
 <div align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=0Shino0&theme=dark&hide_border=true" />
