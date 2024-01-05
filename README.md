@@ -54,6 +54,11 @@
  - 2023-12-18——[一个图片_url访问后直接下载怎样实现](https://v-blog.yyshino.top/front_end_interview/1-0%E6%B5%8F%E8%A7%88%E5%99%A8/06-%E4%B8%80%E4%B8%AA%E5%9B%BE%E7%89%87_url%E8%AE%BF%E9%97%AE%E5%90%8E%E7%9B%B4%E6%8E%A5%E4%B8%8B%E8%BD%BD%E6%80%8E%E6%A0%B7%E5%AE%9E%E7%8E%B0.html)
  - 2023-12-17——[HTTP请求的方式_HEAD方式](https://v-blog.yyshino.top/front_end_interview/1-0%E6%B5%8F%E8%A7%88%E5%99%A8/05-HTTP%E8%AF%B7%E6%B1%82%E7%9A%84%E6%96%B9%E5%BC%8F_HEAD%E6%96%B9%E5%BC%8F.html)
  - 2023-12-16——[WebSocket的实现和应用](https://v-blog.yyshino.top/front_end_interview/1-0%E6%B5%8F%E8%A7%88%E5%99%A8/04-WebSocket%E7%9A%84%E5%AE%9E%E7%8E%B0%E5%92%8C%E5%BA%94%E7%94%A8.html)
+ - 2023-12-15——[介绍页](https://v-blog.yyshino.top/intro.html)
+ - 2023-12-15——[主要功能与配置演示](https://v-blog.yyshino.top/demo/)
+ - 2023-12-15——[前端面试题整合](https://v-blog.yyshino.top/front_end_interview/)
+ - 2023-12-15——[我的博客预览](https://v-blog.yyshino.top/posts/)
+ - 2023-12-15——[我的读书笔记](https://v-blog.yyshino.top/reading_notes/)
  - 2023-12-15——[TCP和UDP的区别](https://v-blog.yyshino.top/front_end_interview/1-0%E6%B5%8F%E8%A7%88%E5%99%A8/03-TCP%E5%92%8CUDP%E7%9A%84%E5%8C%BA%E5%88%AB.html)
  - 2023-12-14——[TCP三次握手](https://v-blog.yyshino.top/front_end_interview/1-0%E6%B5%8F%E8%A7%88%E5%99%A8/02-TCP%E4%B8%89%E6%AC%A1%E6%8F%A1%E6%89%8B.html)
  - 2023-12-13——[说一下HTTP和HTTPS](https://v-blog.yyshino.top/front_end_interview/1-0%E6%B5%8F%E8%A7%88%E5%99%A8/01-%E8%AF%B4%E4%B8%80%E4%B8%8BHTTP%E5%92%8CHTTPS.html)
@@ -76,9 +81,4 @@
  - 2023-12-02——[常用的12中工具类型](https://v-blog.yyshino.top/front_end_interview/1-4TypeScript/01-%E5%B8%B8%E7%94%A8%E7%9A%8412%E4%B8%AD%E5%B7%A5%E5%85%B7%E7%B1%BB%E5%9E%8B.html)
  - 2023-12-02——[Vue响应式实现](https://v-blog.yyshino.top/front_end_interview/1-5Vue/01-Vue%E5%93%8D%E5%BA%94%E5%BC%8F%E5%AE%9E%E7%8E%B0.html)
  - 2023-12-01——[HTML标签的语义化](https://v-blog.yyshino.top/front_end_interview/1-1HTML/29-HTML%E6%A0%87%E7%AD%BE%E7%9A%84%E8%AF%AD%E4%B9%89%E5%8C%96.html)
- - 2023-11-30——[Diff算法](https://v-blog.yyshino.top/front_end_interview/1-5Vue/02-Diff%E7%AE%97%E6%B3%95.html)
- - 2023-11-30——[精读《Vue3.0 Function API》](https://v-blog.yyshino.top/front_end_interview/1-5Vue/06-%E7%B2%BE%E8%AF%BB%E3%80%8AVue3.0%20Function%20API.html)
- - 2023-11-30——[JSX与Vue模板的区别](https://v-blog.yyshino.top/front_end_interview/1-6React/01-JSX%E4%B8%8EVue%E6%A8%A1%E6%9D%BF%E7%9A%84%E5%8C%BA%E5%88%AB.html)
- - 2023-11-30——[Function Component入门](https://v-blog.yyshino.top/front_end_interview/1-6React/02-Function%20Component%E5%85%A5%E9%97%A8.html)
- - 2023-11-30——[CICD流](https://v-blog.yyshino.top/front_end_interview/1-7%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%8C%96/01-CICD%E6%B5%81.html)
- - 2023-11-30——[精读《持续集成 vs 持续交付 vs 持续部署》](https://v-blog.yyshino.top/front_end_interview/1-7%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%8C%96/%E7%B2%BE%E8%AF%BB%E3%80%8A%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90%20vs%20%E6%8C%81%E7%BB%AD%E4%BA%A4%E4%BB%98%20vs%20%E6%8C%81%E7%BB%AD%E9%83%A8%E7%BD%B2%E3%80%8B.html)<!-- BLOG-POST-LIST:END -->
+ - 2023-11-30——[Diff算法](https://v-blog.yyshino.top/front_end_interview/1-5Vue/02-Diff%E7%AE%97%E6%B3%95.html)<!-- BLOG-POST-LIST:END -->
