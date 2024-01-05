@@ -44,6 +44,7 @@
  - 2023-12-28——[Get和Post的区别](https://v-blog.yyshino.top/front_end_interview/1-0%E6%B5%8F%E8%A7%88%E5%99%A8/11.8-Get%E5%92%8CPost%E7%9A%84%E5%8C%BA%E5%88%AB.html)
  - 2023-12-27——[HTTP支持的方法](https://v-blog.yyshino.top/front_end_interview/1-0%E6%B5%8F%E8%A7%88%E5%99%A8/11.7-HTTP%E6%94%AF%E6%8C%81%E7%9A%84%E6%96%B9%E6%B3%95.html)
  - 2023-12-26——[HTTP强缓存和协商缓存](https://v-blog.yyshino.top/front_end_interview/1-0%E6%B5%8F%E8%A7%88%E5%99%A8/11.6-HTTP%E5%BC%BA%E7%BC%93%E5%AD%98%E5%92%8C%E5%8D%8F%E5%95%86%E7%BC%93%E5%AD%98.html)
+ - 2023-12-25——[GLSL](https://v-blog.yyshino.top/posts/GLSL/01-GLSL%E4%BB%8B%E7%BB%8D.html)
  - 2023-12-25——[HTTP常用请求头](https://v-blog.yyshino.top/front_end_interview/1-0%E6%B5%8F%E8%A7%88%E5%99%A8/11.5-HTTP%E5%B8%B8%E7%94%A8%E8%AF%B7%E6%B1%82%E5%A4%B4.html)
  - 2023-12-24——[301和302的区别](https://v-blog.yyshino.top/front_end_interview/1-0%E6%B5%8F%E8%A7%88%E5%99%A8/11.2-301%E5%92%8C302%E7%9A%84%E5%8C%BA%E5%88%AB.html)
  - 2023-12-23——[讲讲304和202](https://v-blog.yyshino.top/front_end_interview/1-0%E6%B5%8F%E8%A7%88%E5%99%A8/11.1-%E8%AE%B2%E8%AE%B2304%E5%92%8C200.html)
@@ -80,5 +81,4 @@
  - 2023-11-30——[JSX与Vue模板的区别](https://v-blog.yyshino.top/front_end_interview/1-6React/01-JSX%E4%B8%8EVue%E6%A8%A1%E6%9D%BF%E7%9A%84%E5%8C%BA%E5%88%AB.html)
  - 2023-11-30——[Function Component入门](https://v-blog.yyshino.top/front_end_interview/1-6React/02-Function%20Component%E5%85%A5%E9%97%A8.html)
  - 2023-11-30——[CICD流](https://v-blog.yyshino.top/front_end_interview/1-7%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%8C%96/01-CICD%E6%B5%81.html)
- - 2023-11-30——[精读《持续集成 vs 持续交付 vs 持续部署》](https://v-blog.yyshino.top/front_end_interview/1-7%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%8C%96/%E7%B2%BE%E8%AF%BB%E3%80%8A%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90%20vs%20%E6%8C%81%E7%BB%AD%E4%BA%A4%E4%BB%98%20vs%20%E6%8C%81%E7%BB%AD%E9%83%A8%E7%BD%B2%E3%80%8B.html)
- - 2023-11-30——[和面试官唠嗑](https://v-blog.yyshino.top/front_end_interview/%E9%9D%A2%E8%AF%95%E5%87%86%E5%A4%87/%E6%88%91%E7%9A%84%E7%AE%80%E5%8E%86/%E5%92%8C%E9%9D%A2%E8%AF%95%E5%AE%98%E5%94%A0%E5%97%91.html)<!-- BLOG-POST-LIST:END -->
+ - 2023-11-30——[精读《持续集成 vs 持续交付 vs 持续部署》](https://v-blog.yyshino.top/front_end_interview/1-7%E5%89%8D%E7%AB%AF%E5%B7%A5%E7%A8%8B%E5%8C%96/%E7%B2%BE%E8%AF%BB%E3%80%8A%E6%8C%81%E7%BB%AD%E9%9B%86%E6%88%90%20vs%20%E6%8C%81%E7%BB%AD%E4%BA%A4%E4%BB%98%20vs%20%E6%8C%81%E7%BB%AD%E9%83%A8%E7%BD%B2%E3%80%8B.html)<!-- BLOG-POST-LIST:END -->
