@@ -29,3 +29,7 @@
 <!-- metrics -->
 <div align="center"> <img src="https://metrics.lecoq.io/0Shino0?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
+## 最新的博客文章
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
