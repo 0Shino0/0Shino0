@@ -18,7 +18,7 @@ jobs:
         with:
           # feed_list: "https://v-blog.yyshino.top/atom.xml,https://v-blog.yyshino.top/feed.json,https://v-blog.yyshino.top/rss.xml"
           feed_list: "https://v-blog.yyshino.top/rss.xml"
-          max_post_count: 50
+          max_post_count: 5
           disable_item_validation: true # 跳过没有标题的文章
           item_exec: |
                 if(!post.title) post = null;
