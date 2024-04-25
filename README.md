@@ -36,4 +36,4 @@
  - 2024-04-25——[手写reduce](https://v-blog.yyshino.top/front_end_interview/1-3JavaScript/25-%E6%89%8B%E5%86%99Reduce.html)
  - 2024-04-25——[手写call、apply、bind](https://v-blog.yyshino.top/front_end_interview/1-3JavaScript/26-%E6%89%8B%E5%86%99call%E3%80%81bind%E3%80%81apply.html)
  - 2024-04-24——[Vue响应式实现](https://v-blog.yyshino.top/front_end_interview/1-5Vue/01-Vue%E5%93%8D%E5%BA%94%E5%BC%8F%E5%AE%9E%E7%8E%B0.html)
- - 2024-04-24——[MVC-MVP-MVVM](https://v-blog.yyshino.top/posts/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/01-MVC-MVP-MVVM.html)<!-- BLOG-POST-LIST:END -->
+ - 2024-04-24——[TS路径映射如何实现](https://v-blog.yyshino.top/posts/TypeScript/02-TS%E8%B7%AF%E5%BE%84%E6%98%A0%E5%B0%84%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0.html)<!-- BLOG-POST-LIST:END -->
